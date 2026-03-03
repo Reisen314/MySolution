@@ -1,12 +1,12 @@
 # Intuition
 <!-- Describe your first thoughts on how to solve this problem. -->
-There are at most $2^{k}$possible substring for length k, so the group of substring for s cover all the possible sub string, if and only if there are $2^{k}$ different element in the group of substring for s
+There are at most $2^{k}$ possible substring for length k, so the group of substring for s cover all the possible sub string, if and only if there are $2^{k}$ different element in the group of substring for s
 
 # Complexity
-- Time complexity:$$O(n)$$
+- Time complexity: $$O(n)$$
 <!-- Add your time complexity here, e.g. $$O(n)$$ -->
 
-- Space complexity:$$O(n)$$
+- Space complexity: $$O(n)$$
 <!-- Add your space complexity here, e.g. $$O(n)$$ -->
 
 # Code
